@@ -6,6 +6,5 @@
 | ---------------- | ------------ | -------- |
 | Liran Tal        | @lirantal    | <img alt="Liran Tal" src="https://github.com/lirantal.png" width="80">
 | Guy Epstein      | @guyepstein  | <img alt="Guy Epstein" src="https://media-exp1.licdn.com/dms/image/C4D03AQFclT4W3-H5EA/profile-displayphoto-shrink_200_200/0/1544996580562?e=1654128000&v=beta&t=yRCYHupkhCGmY7v-X2LY4_E71zsmfkrL3g6eqe7FqQo" width="80"> 
-| Dvir Dishi       | @dvirdishi   |  <img alt="Dvir Dishi" src="![image](https://user-images.githubusercontent.com/73593971/160656893-73e13f29-2b23-4c1e-8e3a-3a9cfcf8f754.jpeg)
-" width="80">
+| Dvir Dishi       | @dvirdishi   |  <img alt="Dvir Dishi" src="https://media-exp1.licdn.com/dms/image/C4D03AQGbhPrFBtscUQ/profile-displayphoto-shrink_400_400/0/1618154856397?e=1654128000&v=beta&t=_koeSumaD713LQjvAcerVRX1tiBkfn7zsu_W6mG_vmI" width="80">
 |
