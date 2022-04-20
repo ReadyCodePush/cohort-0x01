@@ -12,3 +12,4 @@
 | Ido Waisbart     | @blawnode    | <img alt="Ido Waisbart" src="https://github.com/blawnode/image1/blob/main/IMG_20210110_162221.jpg" width="80">
 | Alon Ben         | @Alon-Ben    | <img alt="Alon Ben" src="https://github.com/Alon-Ben.png" width="80">
 | Attendee 2...    | @...         |
+|benyamin harroch  | @benjaminHarroch| <img alt="benyamin harroch" src="https://media-exp1.licdn.com/dms/image/C4E03AQGe-u8odsaISw/profile-displayphoto-shrink_100_100/0/1627033557856?e=2147483647&v=beta&t=43ItDC4E9TD7v16lcM34Za6Vt_u0xxjLyEV5Hw6r3L0" widht="80">
