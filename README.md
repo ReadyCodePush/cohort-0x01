@@ -19,3 +19,4 @@
 | Anthony Epshtein | @e4nthony    | <img alt="Anthony E" src="https://avatars.githubusercontent.com/u/57292180?v=4" width="80">
 | Ron Cohen        | @ronCohen2   | <img alt="Ron Cohen" src="https://avatars.githubusercontent.com/u/47660576?v=4" width="80">
 | Alon Ben         | @Alon-Ben    | <img alt="Alon Ben" src="https://github.com/Alon-Ben.png" width="80">
+| Sagi Weizmann    | @sagiweizmann| <img alt="Sagi Weizmann" src="https://avatars.githubusercontent.com/u/38720312?v=4" width="80">
